@@ -1,0 +1,6 @@
+[user]
+	name = “Aravindh”
+	email = “aravindh97575@gmail.com”
+[core]
+	editor = vim
+	compression = 2
