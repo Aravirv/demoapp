@@ -3,8 +3,8 @@ class Main {
   public static void main(String[] args) {
     
     System.out.println("Enter two numbers");
-    int first = 30;
-    int second = 40;
+    int first = 60;
+    int second = 100;
     
     System.out.println(first + " " + second);
 
